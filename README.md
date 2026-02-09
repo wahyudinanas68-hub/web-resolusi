@@ -1,2 +1,2 @@
 # web-resolusi
-Web Resolusi
+web 2
